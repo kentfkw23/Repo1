@@ -1,8 +1,1 @@
- Volume in drive D is hd2
- Volume Serial Number is 8AE1-4B00
-
- Directory of D:\Kent\GIT\MyProject
-
-01/11/2022  03:49 PM                 0 test1.txt
-               1 File(s)              0 bytes
-               0 Dir(s)  527,737,126,912 bytes free
+change 1
